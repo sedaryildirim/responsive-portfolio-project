@@ -51,9 +51,9 @@ One bug left to fix - darkmode BG color on services tab via 'view more'
 
 ### Useful resources
 
-[Bedimcode](https://www.youtube.com/c/Bedimcode)
-[Iconscout](https://iconscout.com/unicons)
-[Swiper](https://swiperjs.com/)
+- [Bedimcode](https://www.youtube.com/c/Bedimcode)
+- [Iconscout](https://iconscout.com/unicons)
+- [Swiper](https://swiperjs.com/)
 
 ## Author
 
@@ -63,4 +63,4 @@ One bug left to fix - darkmode BG color on services tab via 'view more'
 
 ## Acknowledgments
 
-[Bedimcode](https://www.youtube.com/c/Bedimcode)
+- [Bedimcode](https://www.youtube.com/c/Bedimcode)
