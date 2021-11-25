@@ -42,12 +42,14 @@ Code-along Challenge with Bedimcode for a portfolio website
 
 learned how to use emmet correctly with class chaining
 fixed several errors with troubleshooting for display issues
+better understanding of developer tools whislt searching for bugs
 learned more css shorthand
 learned better bem naming structure
 
 ### Continued development
 
-One bug left to fix - darkmode BG color on services tab via 'view more'
+``One bug left to fix - darkmode BG color on services tab via 'view more'
+edit: fixed
 
 ### Useful resources
 
