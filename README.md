@@ -48,7 +48,7 @@ learned better bem naming structure
 
 ### Continued development
 
-``One bug left to fix - darkmode BG color on services tab via 'view more'
+~~One bug left to fix - darkmode BG color on services tab via 'view more'
 edit: fixed
 
 ### Useful resources
