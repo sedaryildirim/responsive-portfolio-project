@@ -44,7 +44,7 @@ Code-along Challenge with Bedimcode for a portfolio website
 - fixed several errors with troubleshooting for display issues
 - better understanding of developer tools whislt searching for bugs
 - learned more css shorthand
-- learned better understanding of bem naming structure
+- better understanding of bem naming structure
 
 ### Continued development
 
