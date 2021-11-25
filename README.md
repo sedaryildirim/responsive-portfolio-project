@@ -40,11 +40,11 @@ Code-along Challenge with Bedimcode for a portfolio website
 
 ### What I learned
 
-learned how to use emmet correctly with class chaining
-fixed several errors with troubleshooting for display issues
-better understanding of developer tools whislt searching for bugs
-learned more css shorthand
-learned better bem naming structure
+- learned how to use emmet correctly with class chaining
+- fixed several errors with troubleshooting for display issues
+- better understanding of developer tools whislt searching for bugs
+- learned more css shorthand
+- learned better understanding of bem naming structure
 
 ### Continued development
 
