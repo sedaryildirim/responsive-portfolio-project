@@ -40,20 +40,20 @@ Code-along Challenge with Bedimcode for a portfolio website
 - Mobile-first workflow
 - CSS custom properties
 - Grid
-- Flexbox
+- Flex box
 - JS
 
 ### What I learned
 
 - learned how to use emmet correctly with class chaining
 - fixed several errors with troubleshooting for display issues
-- better understanding of developer tools whislt searching for bugs
+- better understanding of developer tools whilst searching for bugs
 - learned more css shorthand
 - better understanding of bem naming structure
 
 ### Continued development
 
-~~One bug left to fix - darkmode BG color on services tab via 'view more'~~
+~~One bug left to fix - dark mode BG color on services tab via 'view more'~~
 edit: fixed
 
 ### Useful resources
