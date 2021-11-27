@@ -29,8 +29,8 @@ Code-along Challenge with Bedimcode for a portfolio website
 
 ### Links
 
-- Solution URL: [Github Repo](https://github.com/sedaryildirim/portfolio-project)
-- Live Site URL: [Github Pages](https://sedaryildirim.github.io/portfolio-project/)
+- Solution URL: [Github Repo](https://github.com/sedaryildirim/responsive-portfolio-project)
+- Live Site URL: [Github Pages](https://sedaryildirim.github.io/responsive-portfolio-project/)
 
 ## My process
 
